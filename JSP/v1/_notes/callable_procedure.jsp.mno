@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_Callable1" value="name:con;direction:1;datatype:char;" />
+	<infoitem key="UD_rsContinent" value="name:Name;datatype:CHAR,name:HeadOfState;datatype:CHAR" />
+</info>

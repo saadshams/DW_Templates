@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsCity" value="name:ID;datatype:INT,name:Name;datatype:CHAR,name:CountryCode;datatype:CHAR,name:District;datatype:CHAR,name:Population;datatype:INT" />
+</info>
